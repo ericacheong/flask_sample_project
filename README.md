@@ -1,6 +1,6 @@
 # Flask sample project structure
 
-This project is a sample flask project structure. A script to switch between development and production modes is available.
+This project is a sample flask project template. A script to switch between development and production modes is available.
 
 ## Features
 - Separate views and models
