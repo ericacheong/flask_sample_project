@@ -1,0 +1,3 @@
+# development.py
+
+DEBUG = True
